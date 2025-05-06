@@ -1,5 +1,5 @@
 ## Please check the task's website from below:
 
-### [Task 1](https://js-mastery-task-1.vercel.app/){:target="\_blank"}
+### <a href="https://js-mastery-task-1.vercel.app/" target="_blank" color="yellow">Task 1</a> Jadoo Website
 
-### [Task 2](https://js-mastery-task-2.vercel.app/){:target="\_blank"}
+### <a href="https://js-mastery-task-2.vercel.app/" target="_blank" color="yellow">Task 4</a> Refactoring Task
